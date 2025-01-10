@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshsharma18&label=Profile%20views&color=0e75b6&style=flat" alt="lakshsharma18" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **https://www.linkedin.com/in/lakshsharma18/**
 
